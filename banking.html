@@ -22,17 +22,18 @@
 
                 <div class="bg-green-300 p-8 rounded ">
                     <h3 class="text-2xl">Deposit</h3>
-                    <h4 class="text-4xl">$00</h4>
+                    <!-- deposit input e value diya click korle akhaner deposit-total er $ sign ta kete jay. jeta akta problem -->
+                    <h4 class="text-4xl">$<span id="deposit-total">00</span> </h4>
                 </div>
 
                 <div class="bg-stone-400 p-8 rounded ">
                     <h3 class="text-2xl">Withdraw</h3>
-                    <h4 class="text-4xl">$00</h4>
+                    <h4 class="text-4xl">$ <span id="withdraw-total">00</span></h4>
                 </div>
 
                 <div class="bg-blue-300 p-8 rounded ">
                     <h3 class="text-2xl">Balance</h3>
-                    <h4 class="text-4xl">$1208</h4>
+                    <h4 class="text-4xl">$ <span id="balance-total">1240</span></h4>
                 </div>
 
             </div>
@@ -67,6 +68,9 @@
             </div>
         </section>
     </main>
+
+    <!-- Add Javascipt file -->
+    <script src="js/banking.js"></script>
 </body>
 
 </html>
