@@ -1,8 +1,6 @@
 # Project name: [BaapErBank](https://665-stack.github.io/BaapErBank/)
-
-
 <br>
-## Login Info:
+## Login Info: 
 <br>
 Email: <i>devil@mail.com</i>
 <br>
