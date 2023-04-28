@@ -1,4 +1,4 @@
-# Project name: [BaapErBank](https://665-stack.github.io/BaapErBank/)
+# Project name: BaapErBank
 <br>
 <h5> Login Info: </h5>
 Email: <i>devil@mail.com</i>
