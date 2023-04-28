@@ -1,10 +1,10 @@
 # Project name: Baap Er bank
 <br>
-**Login Info:**
+## Login Info:
 <br>
-Email: ***devil@mail.com***
+Email: <i>devil@mail.com</i>
 <br>
-Password: ***psd***
+Password: <i>psd</i>
 <br>
 
 Btw, in bengali "Baap Er Bank" means Father's Bank :)
