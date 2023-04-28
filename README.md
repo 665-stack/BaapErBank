@@ -1,6 +1,6 @@
-# Project name: Baap Er bank [Live link](https://665-stack.github.io/BaapErBank/)
+# Project name: Baap Er bank 
 <br>
-
+Live link: https://665-stack.github.io/BaapErBank/
 ## Login Info:
 <br>
 Email: <i>devil@mail.com</i>
